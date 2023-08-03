@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kata04/Kata04.iml" filepath="$PROJECT_DIR$/Kata04/Kata04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kata08/Kata08.iml" filepath="$PROJECT_DIR$/Kata08/Kata08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kudwa_Assessment_LamisArmoush.iml" filepath="$PROJECT_DIR$/.idea/Kudwa_Assessment_LamisArmoush.iml" />
+    </modules>
+  </component>
+</project>
